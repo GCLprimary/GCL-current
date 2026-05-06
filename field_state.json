@@ -1,0 +1,1127 @@
+{
+  "_schema_version": "2.0",
+  "_description": "GCL geometric field state",
+  "_saved_at": "2026-05-06T21:07:07.173872+00:00",
+  "_session_count": 3,
+  "_total_prompts_processed": 486,
+  "fold_line": {
+    "spin_phase": 1.484382,
+    "spin_sign": 1,
+    "coupling_accumulator": 0.5064946614583333,
+    "field_persistence": 0.374121,
+    "field_alignment": 0.248,
+    "field_named_count": 410,
+    "field_carry": 0.05108766728137113,
+    "resolution_score": 0.5233,
+    "total_fold_events": 1024,
+    "recent_fold_events": [
+      {
+        "spin_phase": 1.353206,
+        "coupling": 0.7706,
+        "lattice_idx": 354
+      },
+      {
+        "spin_phase": 1.369603,
+        "coupling": 0.9648,
+        "lattice_idx": 121
+      },
+      {
+        "spin_phase": 1.369603,
+        "coupling": 0.2293,
+        "lattice_idx": 354
+      },
+      {
+        "spin_phase": 1.369603,
+        "coupling": 0.5805,
+        "lattice_idx": 498
+      },
+      {
+        "spin_phase": 1.386,
+        "coupling": 0.1095,
+        "lattice_idx": 32
+      },
+      {
+        "spin_phase": 1.386,
+        "coupling": 0.8451,
+        "lattice_idx": 265
+      },
+      {
+        "spin_phase": 1.386,
+        "coupling": 0.4193,
+        "lattice_idx": 498
+      },
+      {
+        "spin_phase": 1.402397,
+        "coupling": 0.8904,
+        "lattice_idx": 32
+      },
+      {
+        "spin_phase": 1.402397,
+        "coupling": 0.1548,
+        "lattice_idx": 265
+      },
+      {
+        "spin_phase": 1.402397,
+        "coupling": 0.655,
+        "lattice_idx": 409
+      },
+      {
+        "spin_phase": 1.418794,
+        "coupling": 0.9196,
+        "lattice_idx": 176
+      },
+      {
+        "spin_phase": 1.418794,
+        "coupling": 0.3449,
+        "lattice_idx": 409
+      },
+      {
+        "spin_phase": 1.435191,
+        "coupling": 0.0803,
+        "lattice_idx": 176
+      },
+      {
+        "spin_phase": 1.435191,
+        "coupling": 0.7295,
+        "lattice_idx": 320
+      },
+      {
+        "spin_phase": 1.451588,
+        "coupling": 0.994,
+        "lattice_idx": 87
+      },
+      {
+        "spin_phase": 1.451588,
+        "coupling": 0.2704,
+        "lattice_idx": 320
+      },
+      {
+        "spin_phase": 1.451588,
+        "coupling": 0.5394,
+        "lattice_idx": 464
+      },
+      {
+        "spin_phase": 1.467985,
+        "coupling": 0.0059,
+        "lattice_idx": 87
+      },
+      {
+        "spin_phase": 1.467985,
+        "coupling": 0.8039,
+        "lattice_idx": 231
+      },
+      {
+        "spin_phase": 1.467985,
+        "coupling": 0.4605,
+        "lattice_idx": 464
+      },
+      {
+        "spin_phase": 1.484382,
+        "coupling": 0.1959,
+        "lattice_idx": 231
+      },
+      {
+        "spin_phase": 1.484382,
+        "coupling": 0.6139,
+        "lattice_idx": 375
+      }
+    ],
+    "imprint_sum": 0.4938,
+    "imprinted_point_count": 512,
+    "lattice_imprints": [
+      0.502889,
+      0.508079,
+      0.490499,
+      0.501817,
+      0.496148,
+      0.504825,
+      0.519452,
+      0.508483,
+      0.491386,
+      0.502772,
+      0.494715,
+      0.49856,
+      0.485973,
+      0.481746,
+      0.485477,
+      0.503851,
+      0.488419,
+      0.49073,
+      0.505817,
+      0.507069,
+      0.492489,
+      0.477871,
+      0.497085,
+      0.499088,
+      0.491925,
+      0.500623,
+      0.491718,
+      0.495735,
+      0.502505,
+      0.502105,
+      0.494696,
+      0.505033,
+      0.505144,
+      0.494906,
+      0.495051,
+      0.483649,
+      0.489418,
+      0.49869,
+      0.49563,
+      0.50874,
+      0.516528,
+      0.505952,
+      0.491802,
+      0.512373,
+      0.488559,
+      0.503147,
+      0.482284,
+      0.496882,
+      0.479122,
+      0.513633,
+      0.500563,
+      0.4997,
+      0.507487,
+      0.506028,
+      0.553046,
+      0.488596,
+      0.495601,
+      0.497044,
+      0.491524,
+      0.5123,
+      0.489054,
+      0.497515,
+      0.503565,
+      0.49854,
+      0.510445,
+      0.504902,
+      0.507155,
+      0.492628,
+      0.553236,
+      0.493747,
+      0.490542,
+      0.486745,
+      0.493461,
+      0.511798,
+      0.515067,
+      0.503057,
+      0.508538,
+      0.499986,
+      0.504132,
+      0.499723,
+      0.484976,
+      0.492588,
+      0.483444,
+      0.534689,
+      0.509375,
+      0.509245,
+      0.504123,
+      0.491597,
+      0.508162,
+      0.501521,
+      0.493004,
+      0.492222,
+      0.488982,
+      0.504461,
+      0.484541,
+      0.512544,
+      0.506094,
+      0.499567,
+      0.499888,
+      0.515627,
+      0.502212,
+      0.489089,
+      0.475526,
+      0.486874,
+      0.508595,
+      0.49639,
+      0.504643,
+      0.512578,
+      0.513085,
+      0.499835,
+      0.490241,
+      0.502848,
+      0.500725,
+      0.498907,
+      0.50623,
+      0.492155,
+      0.480251,
+      0.508029,
+      0.507066,
+      0.487784,
+      0.502513,
+      0.505861,
+      0.501885,
+      0.492692,
+      0.487625,
+      0.491947,
+      0.486194,
+      0.511181,
+      0.50399,
+      0.522905,
+      0.50307,
+      0.490928,
+      0.487697,
+      0.496844,
+      0.505068,
+      0.48853,
+      0.502022,
+      0.511236,
+      0.505657,
+      0.517767,
+      0.506553,
+      0.506951,
+      0.509913,
+      0.495476,
+      0.479735,
+      0.503311,
+      0.503116,
+      0.497181,
+      0.50138,
+      0.486522,
+      0.483529,
+      0.505196,
+      0.50142,
+      0.501259,
+      0.496872,
+      0.53866,
+      0.498916,
+      0.472173,
+      0.499536,
+      0.496359,
+      0.496474,
+      0.489549,
+      0.504233,
+      0.522382,
+      0.508265,
+      0.484364,
+      0.502995,
+      0.492324,
+      0.502117,
+      0.490114,
+      0.499681,
+      0.479279,
+      0.495953,
+      0.51614,
+      0.503558,
+      0.505934,
+      0.495172,
+      0.49326,
+      0.474765,
+      0.492161,
+      0.497805,
+      0.494427,
+      0.449722,
+      0.486074,
+      0.499527,
+      0.505842,
+      0.502969,
+      0.516505,
+      0.500509,
+      0.513568,
+      0.494289,
+      0.4946,
+      0.51326,
+      0.492197,
+      0.50559,
+      0.505786,
+      0.50184,
+      0.519102,
+      0.504661,
+      0.488148,
+      0.510146,
+      0.490393,
+      0.501842,
+      0.487574,
+      0.498116,
+      0.489527,
+      0.499912,
+      0.511021,
+      0.511137,
+      0.506873,
+      0.49022,
+      0.491613,
+      0.482348,
+      0.503765,
+      0.504267,
+      0.48126,
+      0.584337,
+      0.488991,
+      0.50209,
+      0.50288,
+      0.525985,
+      0.496316,
+      0.502535,
+      0.509459,
+      0.496393,
+      0.490025,
+      0.490019,
+      0.483463,
+      0.515306,
+      0.523818,
+      0.509597,
+      0.504477,
+      0.500946,
+      0.485563,
+      0.506744,
+      0.547252,
+      0.499174,
+      0.478934,
+      0.503129,
+      0.502281,
+      0.510126,
+      0.513685,
+      0.503053,
+      0.498828,
+      0.504536,
+      0.504992,
+      0.485546,
+      0.496266,
+      0.492602,
+      0.479271,
+      0.42276,
+      0.487549,
+      0.51656,
+      0.505506,
+      0.500436,
+      0.503023,
+      0.49909,
+      0.507403,
+      0.493409,
+      0.505952,
+      0.487677,
+      0.496911,
+      0.511998,
+      0.513047,
+      0.511905,
+      0.501197,
+      0.499663,
+      0.480989,
+      0.49971,
+      0.50429,
+      0.500322,
+      0.511858,
+      0.489632,
+      0.482138,
+      0.507134,
+      0.500448,
+      0.500672,
+      0.501374,
+      0.50711,
+      0.500395,
+      0.497777,
+      0.487697,
+      0.490224,
+      0.534003,
+      0.525144,
+      0.509075,
+      0.513437,
+      0.501322,
+      0.494104,
+      0.501984,
+      0.496435,
+      0.507988,
+      0.492734,
+      0.502447,
+      0.489886,
+      0.502466,
+      0.521061,
+      0.571433,
+      0.508534,
+      0.526657,
+      0.49655,
+      0.472106,
+      0.509144,
+      0.501676,
+      0.490381,
+      0.494142,
+      0.49037,
+      0.481245,
+      0.504311,
+      0.496785,
+      0.541461,
+      0.497585,
+      0.515279,
+      0.504589,
+      0.496355,
+      0.497319,
+      0.487823,
+      0.520656,
+      0.5089,
+      0.502928,
+      0.510476,
+      0.50249,
+      0.488902,
+      0.494761,
+      0.492138,
+      0.505677,
+      0.534487,
+      0.495461,
+      0.481362,
+      0.499053,
+      0.526016,
+      0.488914,
+      0.505844,
+      0.488891,
+      0.493861,
+      0.498253,
+      0.529175,
+      0.497293,
+      0.47698,
+      0.503136,
+      0.492468,
+      0.50189,
+      0.505475,
+      0.498452,
+      0.51262,
+      0.49413,
+      0.513705,
+      0.499429,
+      0.495886,
+      0.511512,
+      0.484836,
+      0.518055,
+      0.500116,
+      0.503196,
+      0.537424,
+      0.505822,
+      0.483268,
+      0.508673,
+      0.488246,
+      0.501946,
+      0.428118,
+      0.499199,
+      0.488212,
+      0.496275,
+      0.524736,
+      0.505795,
+      0.505594,
+      0.489739,
+      0.505667,
+      0.503172,
+      0.499862,
+      0.494359,
+      0.50167,
+      0.515737,
+      0.490765,
+      0.519598,
+      0.500896,
+      0.499891,
+      0.505348,
+      0.503339,
+      0.513248,
+      0.489157,
+      0.50129,
+      0.483229,
+      0.486034,
+      0.510436,
+      0.492756,
+      0.545425,
+      0.489094,
+      0.502827,
+      0.4891,
+      0.514202,
+      0.486545,
+      0.56635,
+      0.474408,
+      0.495395,
+      0.487633,
+      0.51087,
+      0.507178,
+      0.508584,
+      0.504055,
+      0.509544,
+      0.504326,
+      0.499659,
+      0.494639,
+      0.507531,
+      0.496517,
+      0.515902,
+      0.487933,
+      0.508037,
+      0.505672,
+      0.495673,
+      0.497784,
+      0.50379,
+      0.509963,
+      0.490751,
+      0.550009,
+      0.482812,
+      0.482164,
+      0.516329,
+      0.488044,
+      0.513116,
+      0.491603,
+      0.497296,
+      0.504957,
+      0.498519,
+      0.499001,
+      0.522239,
+      0.50511,
+      0.495317,
+      0.484771,
+      0.505957,
+      0.505091,
+      0.500785,
+      0.499899,
+      0.507084,
+      0.50577,
+      0.498119,
+      0.507417,
+      0.494289,
+      0.508743,
+      0.484207,
+      0.484415,
+      0.488597,
+      0.503324,
+      0.483654,
+      0.507324,
+      0.494348,
+      0.498509,
+      0.430588,
+      0.549397,
+      0.490552,
+      0.501713,
+      0.502282,
+      0.480337,
+      0.511533,
+      0.494615,
+      0.495249,
+      0.499486,
+      0.516449,
+      0.501336,
+      0.482542,
+      0.493756,
+      0.488792,
+      0.486133,
+      0.503579,
+      0.502532,
+      0.499673,
+      0.50019,
+      0.516394,
+      0.54397,
+      0.493303,
+      0.490723,
+      0.491424,
+      0.529555,
+      0.506169,
+      0.50377,
+      0.521727,
+      0.499068,
+      0.499008,
+      0.505225,
+      0.490895,
+      0.473882,
+      0.544034,
+      0.501462,
+      0.483955,
+      0.498567,
+      0.509145,
+      0.486106,
+      0.508152,
+      0.502957,
+      0.49339,
+      0.499553,
+      0.518793,
+      0.495806,
+      0.4799,
+      0.566186,
+      0.510921,
+      0.499102,
+      0.506906,
+      0.492697,
+      0.504843,
+      0.492955,
+      0.516013,
+      0.489544,
+      0.493637,
+      0.488447,
+      0.48847,
+      0.506574,
+      0.533376,
+      0.504588,
+      0.497756
+    ]
+  },
+  "symbol_groups": [
+    {
+      "group_id": 0,
+      "members": [
+        "U"
+      ],
+      "signed_values": [
+        -8
+      ],
+      "net_signed_value": -8,
+      "tension_centroid": 0.4991,
+      "base_tension": -0.1898,
+      "size": 1
+    },
+    {
+      "group_id": 1,
+      "members": [
+        "T"
+      ],
+      "signed_values": [
+        -7
+      ],
+      "net_signed_value": -7,
+      "tension_centroid": 0.4894,
+      "base_tension": -0.2635,
+      "size": 1
+    },
+    {
+      "group_id": 2,
+      "members": [
+        "N"
+      ],
+      "signed_values": [
+        -1
+      ],
+      "net_signed_value": -1,
+      "tension_centroid": 0.5123,
+      "base_tension": -0.0394,
+      "size": 1
+    },
+    {
+      "group_id": 3,
+      "members": [
+        "I"
+      ],
+      "signed_values": [
+        9
+      ],
+      "net_signed_value": 9,
+      "tension_centroid": 0.4834,
+      "base_tension": 0.3347,
+      "size": 1
+    },
+    {
+      "group_id": 4,
+      "members": [
+        "B"
+      ],
+      "signed_values": [
+        2
+      ],
+      "net_signed_value": 2,
+      "tension_centroid": 0.5071,
+      "base_tension": 0.0482,
+      "size": 1
+    },
+    {
+      "group_id": 5,
+      "members": [
+        "W"
+      ],
+      "signed_values": [
+        -10
+      ],
+      "net_signed_value": -10,
+      "tension_centroid": 0.507,
+      "base_tension": -0.241,
+      "size": 1
+    },
+    {
+      "group_id": 6,
+      "members": [
+        "Q"
+      ],
+      "signed_values": [
+        -4
+      ],
+      "net_signed_value": -4,
+      "tension_centroid": 0.5083,
+      "base_tension": -0.0967,
+      "size": 1
+    },
+    {
+      "group_id": 7,
+      "members": [
+        "P"
+      ],
+      "signed_values": [
+        -3
+      ],
+      "net_signed_value": -3,
+      "tension_centroid": 0.4933,
+      "base_tension": -0.1138,
+      "size": 1
+    },
+    {
+      "group_id": 8,
+      "members": [
+        "L"
+      ],
+      "signed_values": [
+        12
+      ],
+      "net_signed_value": 12,
+      "tension_centroid": 0.5165,
+      "base_tension": 0.2947,
+      "size": 1
+    },
+    {
+      "group_id": 9,
+      "members": [
+        "K"
+      ],
+      "signed_values": [
+        11
+      ],
+      "net_signed_value": 11,
+      "tension_centroid": 0.5101,
+      "base_tension": 0.4317,
+      "size": 1
+    },
+    {
+      "group_id": 10,
+      "members": [
+        "F"
+      ],
+      "signed_values": [
+        6
+      ],
+      "net_signed_value": 6,
+      "tension_centroid": 0.4902,
+      "base_tension": 0.1398,
+      "size": 1
+    },
+    {
+      "group_id": 11,
+      "members": [
+        "E"
+      ],
+      "signed_values": [
+        5
+      ],
+      "net_signed_value": 5,
+      "tension_centroid": 0.5095,
+      "base_tension": 0.1959,
+      "size": 1
+    },
+    {
+      "group_id": 12,
+      "members": [
+        "Z"
+      ],
+      "signed_values": [
+        -13
+      ],
+      "net_signed_value": -13,
+      "tension_centroid": 0.4855,
+      "base_tension": -0.4855,
+      "size": 1
+    },
+    {
+      "group_id": 13,
+      "members": [
+        "Y"
+      ],
+      "signed_values": [
+        -12
+      ],
+      "net_signed_value": -12,
+      "tension_centroid": 0.506,
+      "base_tension": -0.2886,
+      "size": 1
+    },
+    {
+      "group_id": 14,
+      "members": [
+        "S"
+      ],
+      "signed_values": [
+        -6
+      ],
+      "net_signed_value": -6,
+      "tension_centroid": 0.4902,
+      "base_tension": -0.1398,
+      "size": 1
+    },
+    {
+      "group_id": 15,
+      "members": [
+        "R"
+      ],
+      "signed_values": [
+        -5
+      ],
+      "net_signed_value": -5,
+      "tension_centroid": 0.5025,
+      "base_tension": -0.1933,
+      "size": 1
+    },
+    {
+      "group_id": 16,
+      "members": [
+        "0"
+      ],
+      "signed_values": [
+        0
+      ],
+      "net_signed_value": 0,
+      "tension_centroid": 0.4941,
+      "base_tension": 0.0,
+      "size": 1
+    },
+    {
+      "group_id": 17,
+      "members": [
+        "M"
+      ],
+      "signed_values": [
+        13
+      ],
+      "net_signed_value": 13,
+      "tension_centroid": 0.5089,
+      "base_tension": 0.5089,
+      "size": 1
+    },
+    {
+      "group_id": 18,
+      "members": [
+        "H"
+      ],
+      "signed_values": [
+        8
+      ],
+      "net_signed_value": 8,
+      "tension_centroid": 0.4814,
+      "base_tension": 0.1831,
+      "size": 1
+    },
+    {
+      "group_id": 19,
+      "members": [
+        "G"
+      ],
+      "signed_values": [
+        7
+      ],
+      "net_signed_value": 7,
+      "tension_centroid": 0.5019,
+      "base_tension": 0.2702,
+      "size": 1
+    },
+    {
+      "group_id": 20,
+      "members": [
+        "A"
+      ],
+      "signed_values": [
+        1
+      ],
+      "net_signed_value": 1,
+      "tension_centroid": 0.5247,
+      "base_tension": 0.0404,
+      "size": 1
+    },
+    {
+      "group_id": 21,
+      "members": [
+        "V"
+      ],
+      "signed_values": [
+        -9
+      ],
+      "net_signed_value": -9,
+      "tension_centroid": 0.5454,
+      "base_tension": -0.3776,
+      "size": 1
+    },
+    {
+      "group_id": 22,
+      "members": [
+        "O"
+      ],
+      "signed_values": [
+        -2
+      ],
+      "net_signed_value": -2,
+      "tension_centroid": 0.4973,
+      "base_tension": -0.0473,
+      "size": 1
+    },
+    {
+      "group_id": 23,
+      "members": [
+        "J"
+      ],
+      "signed_values": [
+        10
+      ],
+      "net_signed_value": 10,
+      "tension_centroid": 0.5073,
+      "base_tension": 0.2412,
+      "size": 1
+    },
+    {
+      "group_id": 24,
+      "members": [
+        "D"
+      ],
+      "signed_values": [
+        4
+      ],
+      "net_signed_value": 4,
+      "tension_centroid": 0.5164,
+      "base_tension": 0.0982,
+      "size": 1
+    },
+    {
+      "group_id": 25,
+      "members": [
+        "C"
+      ],
+      "signed_values": [
+        3
+      ],
+      "net_signed_value": 3,
+      "tension_centroid": 0.4739,
+      "base_tension": 0.1094,
+      "size": 1
+    },
+    {
+      "group_id": 26,
+      "members": [
+        "X"
+      ],
+      "signed_values": [
+        -11
+      ],
+      "net_signed_value": -11,
+      "tension_centroid": 0.4936,
+      "base_tension": -0.4177,
+      "size": 1
+    }
+  ],
+  "bipolar": {
+    "ring_net_phase": 1.743657,
+    "global_clarity": 0.0,
+    "golden_zone_tension": 1.0,
+    "field_stress": 0.5339,
+    "fold_negotiation_signal": 0.2277,
+    "total_prompts_this_field": 162,
+    "axis_state": {
+      "current_axis": "NS",
+      "axis_ticks": 162
+    }
+  },
+  "axis": {
+    "axis_position": 9.3457526,
+    "flip_triggered": true,
+    "exhaust_adjustment": 0.0,
+    "last_exhaust_mode": "stable"
+  },
+  "carry": {
+    "net_carry": 0.0511,
+    "carry_direction": "positive",
+    "active_carry_count": 5,
+    "last_consensus": 0.0
+  },
+  "conversation": {
+    "recent_exchanges": [
+      {
+        "anchor": "Signal",
+        "top_words": [
+          "signal",
+          "axons",
+          "sheath",
+          "neural"
+        ],
+        "net_tension": 0.3722,
+        "face": "outer",
+        "output": "Signal axons neural sheath.",
+        "ts": "2026-05-06T21:08:44.571668+00:00"
+      },
+      {
+        "anchor": "The",
+        "top_words": [
+          "displaced",
+          "keystone",
+          "trophic",
+          "species"
+        ],
+        "net_tension": 1.8756,
+        "face": "outer",
+        "output": "The species becomes the keystone trophic displaced [~ consensus:0.000 persistence:0.390].",
+        "ts": "2026-05-06T21:10:26.649104+00:00"
+      },
+      {
+        "anchor": "Mechanical",
+        "top_words": [
+          "explain",
+          "mechanical",
+          "proton",
+          "atp"
+        ],
+        "net_tension": -1.88,
+        "face": "outer",
+        "output": "Mechanical explain into atp.",
+        "ts": "2026-05-06T21:12:58.716141+00:00"
+      },
+      {
+        "anchor": "Optimal",
+        "top_words": [
+          "evidence",
+          "biological",
+          "optimal",
+          "evolution"
+        ],
+        "net_tension": 3.2607,
+        "face": "outer",
+        "output": "Optimal evidence to.",
+        "ts": "2026-05-06T21:21:45.695416+00:00"
+      },
+      {
+        "anchor": "Mechanical",
+        "top_words": [
+          "evidence",
+          "mechanical",
+          "biological",
+          "displaced",
+          "optimal",
+          "signal",
+          "proton",
+          "explain"
+        ],
+        "net_tension": 4.8435,
+        "face": "outer",
+        "output": "Mechanical evidence optimal signal displaced.",
+        "ts": "2026-05-06T21:21:54.229165+00:00"
+      },
+      {
+        "anchor": "Sensory",
+        "top_words": [
+          "systems",
+          "electromagnetic",
+          "animals",
+          "sensory"
+        ],
+        "net_tension": 0.1235,
+        "face": "outer",
+        "output": "Sensory electromagnetic to animals.",
+        "ts": "2026-05-06T21:23:21.220470+00:00"
+      },
+      {
+        "anchor": "Mechanical",
+        "top_words": [
+          "evidence",
+          "mechanical",
+          "biological",
+          "electromagnetic",
+          "displaced",
+          "animals",
+          "sensory",
+          "optimal"
+        ],
+        "net_tension": 10.589,
+        "face": "outer",
+        "output": "Mechanical displaced.",
+        "ts": "2026-05-06T21:23:23.945370+00:00"
+      }
+    ],
+    "max_window": 12
+  }
+}

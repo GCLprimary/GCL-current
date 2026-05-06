@@ -1,0 +1,162 @@
+Is it true that raising the minimum wage always increases unemployment, and what does the empirical evidence actually show across different studies and regions?
+Does printing more money always cause inflation, and what are the key conditions under which this relationship holds or breaks down?
+Do tariffs protect domestic jobs and industries, or do they create net economic losses according to standard trade theory and historical data?
+Is capitalism the same thing as a free market economy, and what are the key institutional differences?
+What is the precise mechanism by which quantitative easing affects long-term interest rates and asset prices?
+How does comparative advantage lead to mutual gains from trade even when one country is more productive in every good?
+Explain the difference between nominal GDP and real GDP, and why real GDP is the relevant measure for economic growth over time.
+What is the difference between a progressive, regressive, and proportional tax system, and how do they affect income distribution?
+Trace the causal chain from a central bank interest rate hike to changes in mortgage rates, housing prices, and construction activity.
+What is the economic definition of a public good, and why do markets typically underprovide them?
+Does rent control help low-income renters in the long run, and what do economic studies show about its effects on housing supply and quality?
+What is the difference between monetary policy and fiscal policy, and in which economic situations is each more effective?
+Explain how the money multiplier works in a fractional reserve banking system and what limits its size in practice.
+Is economic inequality inherently bad for growth, or does the relationship depend on how that inequality arises?
+What is the Laffer Curve, and what does empirical evidence suggest about the revenue-maximizing tax rate?
+How does a government budget deficit affect interest rates and private investment according to the crowding-out effect?
+What is the difference between absolute advantage and comparative advantage, and why does only the latter matter for trade?
+Trace how an increase in the money supply affects the price level in both the short run and the long run under different economic conditions.
+What is behavioral economics, and how do concepts like loss aversion and present bias challenge the standard rational-actor model?
+Does a trade deficit mean a country is losing economically, and what does the balance of payments identity actually show?
+Explain the mechanism by which a carbon tax reduces emissions while minimizing deadweight loss compared to command-and-control regulation.
+What is the difference between a recession and a depression, and what are the key indicators that distinguish them?
+How does the velocity of money influence the relationship between the money supply and nominal GDP?
+Is the stock market a leading, lagging, or coincident indicator of economic activity, and why?
+What is the economic concept of moral hazard, and how does it apply to insurance markets and financial regulation?
+Explain how automatic stabilizers work in fiscal policy and why they help dampen economic fluctuations.
+What is the difference between a bond and a stock from both the issuer’s and the investor’s perspective?
+How does the concept of opportunity cost apply to individual decisions and to government policy choices?
+What is the Phillips Curve, and why has its predictive power changed over the past several decades?
+Does foreign aid typically promote economic development in recipient countries, and what does the evidence show about its effectiveness?
+What is the difference between a command economy, a market economy, and a mixed economy in terms of resource allocation?
+How does the tragedy of the commons arise, and what institutional solutions have economists proposed to solve it?
+What is the difference between average cost and marginal cost, and why is marginal cost the relevant concept for pricing decisions?
+Explain how a negative externality (such as pollution) leads to overproduction in a free market and how a Pigouvian tax corrects it.
+What is the economic definition of efficiency (Pareto efficiency), and why is it distinct from equity or fairness?
+How does the concept of adverse selection affect insurance and used-car markets, and what mechanisms have evolved to mitigate it?
+What is the difference between nominal interest rates and real interest rates, and why does the distinction matter for borrowers and lenders?
+Explain how the multiplier effect works in Keynesian economics and what determines its size.
+What is the difference between a budget deficit and the national debt, and why does the debt-to-GDP ratio matter more than the absolute debt level?
+The claim that waking a sleepwalker is dangerous is a persistent myth — what does the actual evidence show about whether waking a sleepwalker is safe or harmful?
+Why has the myth that you should never wake a sleepwalker persisted so long despite being false, and what actually happens when you wake someone who is sleepwalking?
+The belief that the Great Wall of China is visible from space has been debunked repeatedly — what did astronauts in orbit actually report about its visibility with the naked eye?
+What makes a claim a myth rather than a fact, and what evidence would be required to show that a widely held belief is false or unfounded?
+The misconception that we only use ten percent of our brains has been thoroughly disproven — what does neuroscience actually show about whole-brain activity?
+Why do false beliefs and myths persist in popular culture despite being contrary to the evidence, and what psychological mechanisms make incorrect claims so resistant to correction?
+What is the difference between a claim that is unproven and a claim that has been actively disproven, and why does this distinction matter for evaluating evidence?
+The idea that lightning never strikes the same place twice is a myth — what actually happens when lightning strikes and why is this belief inaccurate?
+Is it true that humans have only five senses, or is this belief an oversimplification that neuroscience has shown to be incorrect?
+Why is the claim that shaving makes hair grow back thicker a myth, and what does dermatological evidence actually show about hair regrowth after shaving?
+Is waking a sleepwalker actually dangerous, or is it safe to do so — what does the medical evidence say about the safety of waking someone during sleepwalking?
+What are the actual dangers of sleepwalking itself compared to the myth that waking a sleepwalker is the dangerous part?
+Is it safe to eat food that has been on the floor for five seconds, and what does microbiology actually show about the five-second rule?
+What makes a substance dangerous at one dose but harmless at another, and how does toxicology define the threshold between safe and unsafe exposure?
+Is it safe to crack your knuckles regularly, or does the evidence show this is actually harmful to joint health over time?
+What does the evidence actually show about whether a full moon affects human behaviour, contrary to the widespread belief that it does?
+Despite the common claim that we lose most body heat through our heads, what does physiological evidence actually show about heat distribution across the body?
+Contrary to popular belief, does eating at night actually cause more weight gain than eating the same calories during the day, and what does the evidence show?
+What does the evidence actually show about the relationship between violent video games and real-world violence, contrary to what is often assumed?
+Although many people believe that cold weather causes colds, what does the evidence actually show about what causes the common cold?
+Why do false beliefs persist even after being debunked, and what cognitive mechanisms make people resistant to updating incorrect claims?
+The persistent belief that antibiotics should always be finished even when symptoms disappear — what does current evidence actually say about this claim?
+Why has the claim that Einstein failed mathematics persisted as a popular myth despite being contrary to the historical record?
+What makes some misconceptions more persistent than others, and why do certain false beliefs survive repeated correction by evidence?
+The belief that humans and dinosaurs coexisted has been thoroughly disproven — what does the fossil evidence actually show about the timeline?
+What actually happens physiologically during sleepwalking, and why does waking a sleepwalker cause confusion rather than danger?
+Is the confusion that results from waking a sleepwalker dangerous to the sleepwalker, or is the confusion itself harmless and temporary?
+What does sleep research actually show about the safety of waking someone during a sleepwalking episode, and why is the myth about danger false?
+Why do sleepwalkers sometimes appear to be awake and aware, and what does neuroscience show about consciousness during sleepwalking?
+What is the safest way to handle a sleepwalking episode, and why is waking the person considered safe despite the persistent myth to the contrary?
+What have astronauts in orbit actually reported about which human structures are visible from space with the naked eye?
+Why is the Great Wall of China not visible from space despite the persistent myth, and what do the actual dimensions of the wall show about why this claim is incorrect?
+What can actually be seen from low Earth orbit with the naked eye, contrary to popular myths about man-made structures being visible from space?
+Which human-made structures are actually visible from the International Space Station, and what does this show about the claim regarding the Great Wall?
+Why do myths about visibility from space persist despite astronauts repeatedly debunking the claim about the Great Wall of China?
+What does neuroscience actually show about how much of the brain is active during normal daily function, contrary to the ten percent myth?
+Why has the misconception that we only use a small fraction of our brains been so persistent despite neuroscience showing it is false?
+What evidence from brain imaging has debunked the claim that most of the human brain is inactive or unused?
+How does neuroscience define and measure brain activity, and what do these measurements actually show about the ten percent claim?
+What would it actually mean for a brain region to be unused, and why does neuroscience show this claim is based on a fundamental misunderstanding?
+What makes a scientific claim unfounded rather than merely unproven, and why does the absence of evidence differ from evidence of absence?
+Why is the claim that vaccines cause autism considered refuted rather than merely contested, and what does the actual evidence show?
+What evidence has been used to refute the claim that homeopathy works beyond placebo, and why is the mechanism considered unsupported by science?
+How do scientists determine that a claim is unsupported by evidence rather than simply not yet tested, and what standard of evidence is required?
+Why is anecdotal evidence considered insufficient to support a causal claim, and what would constitute actual evidence that a treatment works?
+Does lightning never strike the same place twice, and what does this claim get wrong about how lightning actually works?
+Is it true that humans have only five senses, or does neuroscience identify a larger and more complex set of sensory systems?
+Do we really lose most of our body heat through our heads, and what does the actual physiology show?
+Is it accurate to say that goldfish have a three-second memory, and what does the evidence from animal cognition research actually show?
+Does sugar cause hyperactivity in children, and what do controlled clinical studies actually demonstrate about this claim?
+Is it true that we only use ten percent of our brains, and what does modern neuroscience say about whole-brain activity?
+Did Napoleon Bonaparte have an unusually short stature, and how does the historical record actually describe his height?
+Is the Great Wall of China visible from space with the naked eye, and what have astronauts actually reported?
+Does shaving hair make it grow back thicker and darker, and what does dermatological evidence show about hair regrowth?
+Is it true that antibiotics should always be finished even when you feel better, and what does current evidence say about this practice?
+Explain the precise chain of events by which increased atmospheric CO2 leads to rising ocean temperatures.
+How does the process of natural selection produce adaptation without any goal or direction guiding it?
+Trace the mechanism by which a vaccine produces immunity without causing the disease it protects against.
+Explain why objects in orbit appear weightless even though gravity is still acting on them.
+How does the process of fermentation convert sugar into alcohol and carbon dioxide at the molecular level?
+Why does increasing the temperature of a gas cause it to expand, and what happens at the molecular level?
+Explain the mechanism by which antibiotic resistance spreads through a bacterial population.
+How does the greenhouse effect actually work, and why does adding CO2 specifically trap heat?
+Trace the causal chain from deforestation in the Amazon to changes in rainfall patterns thousands of miles away.
+Why does correlation between two variables not establish that one causes the other, and give a concrete example?
+A train leaves New York at 8am traveling at 60mph. Another leaves Chicago at 9:30am traveling at 75mph toward New York. The cities are 790 miles apart. When do they meet?
+If a bacteria population doubles every 20 minutes, how many bacteria will there be after 3 hours starting from one bacterium?
+A store marks up items by 40% then offers a 25% discount. What is the net percentage change from the original price?
+If the probability of rain on any given day is 30%, what is the probability that it rains on at least one of three consecutive days?
+A rope is cut into three pieces. The second piece is twice as long as the first. The third is three times the second. The total length is 180cm. How long is each piece?
+What is the precise difference between a hypothesis, a theory, and a scientific law, and why does calling evolution "just a theory" misunderstand the term?
+What does entropy measure in thermodynamics, and how does this relate to the concept of disorder at the molecular level?
+What is the difference between the genotype and phenotype of an organism, and why can two organisms with the same genotype express different phenotypes?
+Explain what peer review is, what it is designed to catch, and what it is not designed to catch.
+What is Bayes theorem and why is it important for understanding how new evidence should update existing beliefs?
+What is the difference between deductive and inductive reasoning, and in which circumstances is each more reliable?
+What does falsifiability mean in the philosophy of science, and why did Karl Popper consider it the key criterion for a scientific claim?
+What is the placebo effect, how is it measured in clinical trials, and why is a placebo-controlled trial considered more rigorous than one without?
+What is the difference between accuracy and precision in measurement, and give an example where a measurement can be precise but not accurate?
+What does statistical significance mean, and why does a statistically significant result not necessarily mean a result is practically important?
+What do we currently know about what causes consciousness, and where does the scientific understanding reach its genuine limit?
+Is there scientific consensus on whether a multiverse exists, and what would be required to make that claim testable?
+What does quantum mechanics actually say about whether the universe is deterministic, and where does genuine uncertainty enter?
+How confident are scientists about the timeline of the Big Bang, and which parts of the standard model are well-established versus speculative?
+Can artificial intelligence ever be conscious, and what would we need to know to answer that question scientifically?
+What is the difference between a virus and a bacterium, and why does this distinction matter for treatment?
+How does the immune system distinguish between the body's own cells and foreign invaders, and what happens when this distinction breaks down?
+What distinguishes a mental illness from normal variation in mood and behaviour, and why is the boundary contested?
+What is the difference between climate and weather, and why does a cold day not disprove global warming?
+How does nuclear fission differ from nuclear fusion, and why is fusion considered a more attractive long-term energy source?
+What is the difference between a solar system, a galaxy, and the observable universe in terms of scale?
+How does the common law legal system differ from civil law systems, and what are the practical consequences of each approach?
+What distinguishes a pandemic from an epidemic from an endemic disease, and why does the classification matter for public health response?
+Some people think the moon landing was faked because there are no stars in the photos. Why is that argument flawed?
+Many assume that "natural" always means safe and healthy. Is that actually true?
+A common claim is that "we only use 10% of our brains." What does neuroscience actually say about this?
+How does the introduction of an invasive species disrupt an entire ecosystem through trophic cascades?
+Explain the step-by-step mechanism by which smoking leads to lung cancer at the cellular level.
+Trace how rising sea levels can trigger economic impacts far inland through supply chain disruptions.
+Is it possible to have free will in a deterministic universe, or is that a contradiction?
+Can artificial intelligence ever achieve genuine understanding, or will it only ever simulate it?
+What is the ultimate fate of the universe, and is that question answerable with current physics?
+What is the exact difference between "fact" and "opinion" in scientific discourse, and why does blurring them cause problems?
+Define "bias" in statistics versus "bias" in everyday language — how do the two meanings interact?
+What does "theory" mean in science compared to its everyday usage, and why does the distinction matter?
+How do "deductive" and "inductive" reasoning differ in their approach to certainty and probability?
+Compare and contrast "genetic" and "epigenetic" influences on traits, and why both are necessary for full understanding.
+What is the key difference between "efficiency" and "effectiveness", and give an example where optimizing one harms the other?
+People say the Earth is flat because it looks flat from the ground. Is that true?
+Many believe vaccines cause autism. What does the evidence actually show?
+Some claim evolution is "just a theory" like any other idea. How does science distinguish a scientific theory from a guess?
+How does increased CO2 in the atmosphere lead to rising global temperatures through the greenhouse effect?
+Trace the chain: how does deforestation in the Amazon affect rainfall patterns in distant regions?
+Explain the multi-step process by which antibiotic resistance spreads in bacterial populations.
+What is the nature of consciousness, and can it be fully explained by physical processes in the brain?
+Is there a smallest possible unit of space and time, or is spacetime continuous at all scales?
+Can we ever know whether we are living in a simulation, or is that question fundamentally unanswerable?
+What is the precise difference between "climate" and "weather", and why does conflating them lead to misunderstanding?
+Define "entropy" in thermodynamics versus information theory — are they the same concept or distinct?
+What does "evidence" mean in science, and how does it differ from "proof" in mathematics or law?
+Compare and contrast classical physics and quantum mechanics in their treatment of determinism and probability.
+How do the concepts of "genotype" and "phenotype" differ, and why is the distinction crucial for understanding heredity?
+What is the difference between correlation and causation, and give an example where one is mistaken for the other?

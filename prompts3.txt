@@ -1,0 +1,150 @@
+Gravity is not a force in general relativity but a curvature of spacetime caused by mass.
+Entropy always increases in isolated systems according to the second law of thermodynamics.
+Quantum entanglement allows particles to share correlated states regardless of distance.
+Wave-particle duality means photons behave as waves in some experiments and particles in others.
+The uncertainty principle states that position and momentum cannot both be precisely known simultaneously.
+Nuclear fusion releases energy by combining light nuclei while fission splits heavy nuclei apart.
+Electromagnetic radiation travels at the speed of light and includes visible light, radio waves, and X-rays.
+Conservation of energy means energy cannot be created or destroyed only transformed between forms.
+Pressure in a fluid increases with depth due to the weight of the fluid above it.
+Resonance occurs when an oscillating system is driven at its natural frequency causing large amplitude vibrations.
+Diffraction explains why waves bend around obstacles and spread out through narrow openings.
+Superconductivity allows certain materials to conduct electricity with zero resistance below a critical temperature.
+The photoelectric effect demonstrated that light transfers energy in discrete packets called photons.
+Dark matter does not interact with electromagnetic radiation but exerts gravitational effects on visible matter.
+Relativity predicts that time passes more slowly in strong gravitational fields than in weaker ones.
+Covalent bonds form when atoms share electron pairs while ionic bonds involve electron transfer.
+Catalysts accelerate chemical reactions by lowering the activation energy without being consumed.
+pH measures the concentration of hydrogen ions in a solution with seven being neutral.
+Oxidation involves the loss of electrons while reduction involves the gain of electrons in reactions.
+Polymers are large molecules composed of repeating structural units called monomers linked together.
+Electronegativity determines how strongly an atom attracts electrons in a chemical bond.
+Buffer solutions resist changes in pH when small amounts of acid or base are added.
+Chirality describes molecules that are non-superimposable mirror images of each other like left and right hands.
+Combustion is a rapid oxidation reaction that releases heat and light as products.
+The periodic table organizes elements by atomic number and groups elements with similar properties together.
+Entropy in chemistry drives reactions toward states of greater disorder and lower free energy.
+Hydrophobic molecules repel water while hydrophilic molecules are attracted to and mix with water.
+Equilibrium in chemical reactions occurs when forward and reverse reaction rates become equal.
+Isotopes are atoms of the same element with different numbers of neutrons in the nucleus.
+Titration determines the concentration of a solution by reacting it with a solution of known concentration.
+Prime numbers have exactly two divisors and form the building blocks of all integers.
+Calculus uses limits to define derivatives as instantaneous rates of change and integrals as accumulated area.
+Probability measures the likelihood of events occurring on a scale from zero to one.
+Euclidean geometry assumes parallel lines never meet while non-Euclidean geometries allow them to intersect.
+Recursion defines a function in terms of itself with a base case to prevent infinite loops.
+Topology studies properties of shapes that are preserved under continuous deformations without tearing.
+The fundamental theorem of algebra states every non-constant polynomial has at least one complex root.
+Matrices represent linear transformations and can be multiplied to compose transformations sequentially.
+Fractals exhibit self-similarity at different scales and often arise from simple iterative processes.
+Set theory provides the logical foundation for mathematics using collections of distinct objects.
+Logarithms convert multiplication into addition and are the inverse operation of exponentiation.
+The Pythagorean theorem relates the squares of the three sides of any right triangle.
+Graph theory studies networks of vertices connected by edges and models complex systems efficiently.
+Differential equations describe how quantities change with respect to each other over continuous variables.
+Statistics distinguishes between correlation and causation requiring controlled experiments to establish causation.
+Cognitive dissonance occurs when a person holds contradictory beliefs causing psychological discomfort.
+Classical conditioning pairs a neutral stimulus with an unconditioned stimulus to produce a learned response.
+Working memory temporarily holds and manipulates information during complex cognitive tasks.
+Confirmation bias causes people to seek information that confirms their existing beliefs.
+Neuroplasticity allows the brain to reorganize neural connections in response to experience and learning.
+Attachment theory describes how early bonds between infants and caregivers shape adult relationships.
+The placebo effect demonstrates that belief in a treatment can produce measurable physiological changes.
+Intrinsic motivation drives behavior through internal satisfaction rather than external rewards or punishments.
+Habituation is the decreased response to a repeated stimulus that poses no significant consequence.
+Emotional regulation involves strategies for managing and responding to emotional experiences appropriately.
+Social learning theory proposes that people learn behaviors by observing and imitating others.
+The halo effect causes one positive trait to influence the overall perception of a person.
+Implicit memory stores skills and conditioned responses without conscious recall unlike explicit memory.
+Self-efficacy beliefs about one's own capability to perform tasks influence motivation and behavior.
+Groupthink suppresses dissenting opinions in cohesive groups leading to poor collective decision-making.
+The immune system distinguishes self from non-self using surface proteins called antigens.
+Antibiotic resistance develops when bacteria evolve mechanisms to survive exposure to antibiotics.
+Viruses cannot reproduce independently and require host cell machinery to replicate their genetic material.
+Homeostasis maintains stable internal conditions through negative feedback mechanisms like temperature regulation.
+Inflammation is an immune response that increases blood flow and recruits immune cells to injured tissue.
+The blood-brain barrier selectively controls which substances can pass from the bloodstream into the brain.
+Hormones are chemical messengers secreted by endocrine glands that regulate distant target organs.
+Stem cells can differentiate into specialized cell types making them valuable for regenerative medicine.
+Epigenetic modifications alter gene expression without changing the underlying DNA sequence itself.
+Apoptosis is programmed cell death that removes damaged or unnecessary cells during development.
+Vaccines train the immune system to recognize pathogens without causing the disease they prevent.
+Chronic inflammation is associated with cardiovascular disease diabetes and neurodegenerative conditions.
+The microbiome consists of trillions of microorganisms living in and on the human body.
+Pain perception involves complex neural pathways that can be modulated by psychological and contextual factors.
+Metabolism encompasses all chemical reactions that maintain life including energy production and biosynthesis.
+Encryption transforms data using mathematical algorithms to prevent unauthorized access to information.
+Machine learning algorithms improve performance on tasks through exposure to data without explicit programming.
+Latency measures the delay between a request and the corresponding response in computing systems.
+Compression reduces file size by encoding redundant information more efficiently without losing essential content.
+Neural networks are computational models inspired by biological brains consisting of interconnected nodes.
+Version control systems track changes to code over time allowing collaboration and reverting to previous states.
+Bandwidth determines the maximum rate of data transfer across a network connection.
+Concurrency allows multiple processes to execute simultaneously improving computational efficiency.
+Abstraction hides complexity behind simple interfaces allowing programmers to work at higher levels of detail.
+Recursion in programming solves problems by breaking them into smaller identical subproblems.
+Blockchain stores data in linked sequential blocks making retroactive modification computationally impractical.
+The halting problem proves that no algorithm can determine whether an arbitrary program will terminate.
+Caching stores frequently accessed data in fast memory to reduce retrieval time in computing systems.
+Virtualization allows multiple operating systems to run simultaneously on a single physical machine.
+Edge computing processes data near its source rather than in centralized data centers reducing latency.
+Syntax governs the rules for combining words into grammatically correct sentences in a language.
+Semantics studies the meaning of words phrases and sentences independent of their grammatical structure.
+Language acquisition in children follows predictable stages regardless of the specific language being learned.
+Phonemes are the smallest units of sound that distinguish meaning between words in a language.
+Morphemes are the smallest meaningful units in language including both words and grammatical affixes.
+Code-switching occurs when speakers alternate between two or more languages within a single conversation.
+The Sapir-Whorf hypothesis suggests that the structure of language influences the thought patterns of its speakers.
+Linguistic relativity proposes that different languages encode reality in ways that shape perception differently.
+Pragmatics studies how context influences the interpretation of meaning beyond literal sentence content.
+Dialects are regional or social varieties of a language distinguished by vocabulary grammar and pronunciation.
+Polysemy refers to words that carry multiple related meanings depending on context and usage.
+Syntax trees represent the hierarchical structure of sentences showing grammatical relationships between components.
+Language families group related languages that descended from a common ancestral language over time.
+Metaphor shapes abstract thought by mapping concepts from familiar physical domains onto abstract ones.
+Creole languages develop from simplified contact languages into fully complex native languages over generations.
+Plate tectonics explains how the movement of crustal plates causes earthquakes volcanoes and mountain formation.
+The water cycle describes the continuous movement of water through evaporation precipitation and runoff.
+Ocean currents distribute heat around the planet influencing regional climates and weather patterns.
+Biodiversity hotspots contain exceptional concentrations of species found nowhere else on Earth.
+Erosion gradually wears away rock and soil through wind water and ice over geological timescales.
+The greenhouse effect traps solar radiation in the atmosphere warming the planet surface.
+Desertification converts fertile land into desert through drought deforestation and unsustainable agriculture.
+The Coriolis effect causes moving fluids to deflect right in the northern hemisphere and left in the southern.
+Volcanic eruptions release magma gases and ash building new landforms and altering atmospheric composition.
+Continental drift separated the supercontinent Pangaea into the current arrangement of continents over millions of years.
+Soil composition determines agricultural productivity and varies with climate vegetation and underlying rock.
+El Niño causes irregular warming of the Pacific Ocean with widespread effects on global weather patterns.
+Aquifers store groundwater in permeable rock and serve as critical freshwater sources for human populations.
+The ozone layer absorbs harmful ultraviolet radiation protecting life on Earth from radiation damage.
+River deltas form where sediment deposits at the mouth of a river creating fertile low-lying plains.
+Causation in history involves identifying the complex chains of events that led to significant outcomes.
+Empiricism holds that all knowledge derives from sensory experience rather than innate ideas or reason alone.
+The scientific revolution transformed understanding of the natural world through systematic observation and experiment.
+Colonialism established political and economic dominance over foreign territories with lasting cultural consequences.
+Democracy requires institutions that protect minority rights while implementing the preferences of the majority.
+Industrialization shifted production from manual labor to machine-based manufacturing with profound social effects.
+Determinism holds that every event is causally necessitated by prior events and the laws of nature.
+The Enlightenment promoted reason individual rights and skepticism of traditional authority in European thought.
+Nationalism defines collective identity through shared culture language history and territory.
+Dialectical reasoning resolves contradictions between opposing ideas through synthesis into a higher truth.
+Globalization has accelerated the exchange of goods information and culture across national borders.
+Philosophy of mind addresses whether mental states can be fully explained by physical brain processes.
+The social contract theory justifies political authority through the hypothetical consent of the governed.
+Epistemology investigates the nature sources and limits of knowledge and justified belief.
+Ethics distinguishes between consequentialist theories focused on outcomes and deontological theories focused on duties.
+Intelligence in animals is measured through problem-solving tool use and flexible behavioral responses.
+Camouflage mechanisms in cephalopods involve neurological control of chromatophores for rapid pattern change.
+Communication systems in social insects encode spatial information about food sources through dance and pheromones.
+Migration routes are genetically encoded in many species but can be modified through learned social transmission.
+Echolocation precision in bats allows discrimination of objects separated by less than a millimeter in distance.
+Developmental processes in embryos are governed by conserved regulatory genes called homeobox sequences.
+Molecular mechanisms of enzyme catalysis involve precise geometric alignment of substrate in the active site.
+Efficiency in biological systems often involves trade-offs between speed accuracy and energy consumption.
+Multiplier effects in economics amplify initial spending changes through successive rounds of income and consumption.
+Sleepwalking occurs during non-REM deep sleep and involves complex behaviors without conscious awareness.
+Global temperature increases disrupt seasonal timing of biological events causing phenological mismatches.
+Immune memory allows faster and stronger responses upon re-exposure to previously encountered pathogens.
+Structural complexity in proteins determines their function through precise three-dimensional folding patterns.
+Beliefs resistant to change are often maintained through motivated reasoning and social identity protection.
+Deterministic systems produce predictable outcomes from initial conditions but may exhibit sensitive dependence.

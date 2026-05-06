@@ -1,0 +1,293 @@
+# Animal Kingdom Training Prompts — Geometric Stress Test
+# 250 prompts designed to:
+# 1. Cover all four sentence types (FACTUAL, CAUSAL, PROCESS, CONTRASTIVE)
+# 2. Use vocabulary that overlaps with existing clusters (evolution, cellular,
+#    mechanism, consciousness, process, system, natural) to test arm stability
+# 3. Include domain-specific vocabulary that is genuinely new to the field
+# 4. Vary prompt length and structure to stress the pocket split mechanism
+# 5. Include comparative/contrastive prompts to test hexagon geometry
+
+# ── SECTION 1: Taxonomy and Classification (CONTRASTIVE) ──────────────────────
+What is the precise difference between a vertebrate and an invertebrate, and why does this distinction matter?
+How do mammals differ from reptiles in their approach to thermoregulation?
+Compare and contrast the skeletal structure of birds and bats — both fly, but how does their anatomy differ?
+What distinguishes a true fish from a marine mammal like a dolphin?
+Explain the difference between a venomous and a poisonous animal — why do people confuse these terms?
+How does the classification of insects differ from that of arachnids, and what causes common misidentification?
+What is the difference between a herbivore, an omnivore, and a carnivore at the digestive system level?
+Compare the immune systems of vertebrates and invertebrates — what is fundamentally different?
+How does a marsupial differ from a placental mammal in reproductive strategy?
+What distinguishes an amphibian from a reptile, and why is the boundary sometimes blurry?
+Compare the nervous systems of an octopus and a dog — what does each reveal about intelligence?
+How does the social structure of a wolf pack differ from that of a lion pride?
+What is the difference between camouflage and mimicry in the animal kingdom?
+How do endotherms differ from ectotherms in energy management?
+Compare the respiratory systems of fish gills and mammalian lungs — what physical principle underlies both?
+What distinguishes a parasite from a predator as a feeding strategy?
+How does mutualism differ from commensalism in animal relationships?
+Compare the vision systems of a hawk and an octopus — different structures, overlapping capabilities?
+What is the difference between migration and hibernation as winter survival strategies?
+How does the digestive system of a ruminant differ from that of a simple-stomached mammal?
+
+# ── SECTION 2: Evolutionary Processes (PROCESS) ────────────────────────────────
+How does natural selection operate on a population of animals over multiple generations?
+Trace the evolutionary process by which whales transitioned from land mammals to ocean dwellers.
+What is the mechanism by which antibiotic resistance develops in bacterial populations found in animals?
+How does sexual selection drive the development of traits like the peacock's tail?
+Explain the process by which a species becomes endangered and eventually extinct.
+How does genetic drift operate differently in small versus large animal populations?
+What is the mechanism of convergent evolution — how do unrelated animals develop similar traits?
+Trace the process by which venom evolved independently in multiple animal lineages.
+How does the domestication process change an animal's genetics and behavior over generations?
+What mechanism underlies the development of warning coloration in toxic animals?
+How does the process of speciation occur when a population becomes geographically isolated?
+Trace the evolutionary development of the eye from simple photoreceptors to complex optical systems.
+What is the mechanism by which animals develop resistance to specific toxins in their environment?
+How does coevolution operate between predators and prey over evolutionary time?
+Explain the process by which social behavior evolves in animal populations.
+How does the mechanism of kin selection explain self-sacrificing behavior in animals?
+Trace the process by which animals colonize new habitats after a mass extinction event.
+What is the mechanism underlying sexual dimorphism — why do males and females of the same species differ?
+How does the process of neoteny — retaining juvenile features into adulthood — shape animal evolution?
+Trace the evolutionary transition from water to land that occurred in early tetrapods.
+How does the mechanism of horizontal gene transfer operate in bacterial communities in animal guts?
+What process drives the loss of eyes in cave-dwelling animals?
+How does the developmental mechanism of bilateral symmetry arise in animal body plans?
+Trace the process by which cooperative hunting behavior evolves in social carnivores.
+What is the mechanism by which animals develop tolerance to extreme environments over generations?
+
+# ── SECTION 3: Behavioral Mechanisms (CAUSAL) ──────────────────────────────────
+How does increased predator pressure cause changes in prey animal behavior?
+Why does the removal of a keystone species lead to cascading effects throughout an ecosystem?
+How does elevated cortisol in animals lead to suppressed immune function?
+Why does overcrowding in animal populations lead to increased disease transmission?
+How does the loss of habitat corridors cause genetic isolation in animal populations?
+Why does the introduction of an invasive species often lead to collapse of native populations?
+How does disruption of circadian rhythms cause behavioral changes in migratory birds?
+Why does trophy hunting of dominant males cause disruption of social structures in elephant herds?
+How does ocean acidification lead to changes in the behavior of marine invertebrates?
+Why does the presence of artificial light at night cause disorientation in sea turtle hatchlings?
+How does the removal of apex predators lead to trophic cascades in ecosystems?
+Why does maternal stress during pregnancy affect offspring behavior in mammals?
+How does deforestation cause fragmentation that leads to reduced biodiversity?
+Why does early social isolation in mammals cause permanent changes in stress response systems?
+How does exposure to endocrine-disrupting chemicals cause reproductive changes in amphibians?
+Why does overexploitation of a prey species cause predator populations to crash?
+How does climate change cause shifts in the timing of animal migration and breeding?
+Why does the introduction of roads through wildlife habitat cause increased animal mortality?
+How does increased atmospheric CO2 cause behavioral changes in coral reef fish?
+Why does the loss of pollinators cause cascading effects on dependent animal species?
+How does chronic stress cause immunosuppression that makes animals vulnerable to parasites?
+Why does the reduction of genetic diversity cause increased susceptibility to disease in populations?
+How does urbanization cause changes in the foraging behavior of wild animals?
+Why does the collapse of insect populations cause declines in insectivorous bird species?
+How does the presence of microplastics in ocean water cause harm to marine animal populations?
+
+# ── SECTION 4: Factual and Definitional (FACTUAL) ──────────────────────────────
+What is the definition of a species in modern biology, and why is it difficult to apply consistently?
+Define the concept of ecological niche — what does it mean for an animal to occupy a niche?
+What does the term keystone species mean, and give an example of how removing one changes an ecosystem?
+Define symbiosis and explain how it differs from parasitism in animal relationships.
+What is the meaning of apex predator, and why do apex predators have disproportionate ecosystem effects?
+Define carrying capacity — what determines the maximum population of an animal in an ecosystem?
+What does the term r-selected versus K-selected species mean in population ecology?
+Define sexual selection and explain how it differs from natural selection.
+What is the meaning of aposematism in animal behavior?
+Define the concept of a trophic level and explain how energy flows between levels.
+What does the term eusociality mean, and which animal groups have achieved it?
+Define metamorphosis and explain the difference between complete and incomplete metamorphosis.
+What is the meaning of cryptic coloration versus disruptive coloration in animal camouflage?
+Define the concept of an evolutionary bottleneck and explain its effects on genetic diversity.
+What does the term echolocation mean, and which animal groups have independently evolved it?
+Define the biological concept of altruism and explain how it can be explained by evolutionary theory.
+What is the meaning of a biological superorganism, and which animal societies qualify?
+Define the concept of biomagnification and explain how it affects top predators.
+What does the term ethology mean, and what methods do ethologists use to study animal behavior?
+Define the concept of an ecological indicator species and give an example.
+
+# ── SECTION 5: Consciousness and Cognition (PROCESS/FACTUAL) ───────────────────
+Can animal consciousness be explained by neural complexity alone, or does it require something more?
+What is the nature of self-awareness in great apes, and how is it tested experimentally?
+How does the intelligence of a crow compare to that of a chimpanzee at the mechanistic level?
+Can fish experience pain in the way mammals do, or is their nociception fundamentally different?
+What is the mechanism underlying tool use in animals — is it learned, inherited, or both?
+How does the social learning process work in whale and dolphin populations?
+What is the evidence that elephants experience grief, and what does this imply about consciousness?
+How does the navigation mechanism of migratory birds using magnetic fields actually work?
+What is the process by which language-like communication develops in great apes raised in human environments?
+Can insects experience something analogous to emotion, or is their behavior purely mechanistic?
+How does the mechanism of play behavior in young mammals relate to adult skill development?
+What is the nature of collective intelligence in ant colonies — is there a central coordinating mechanism?
+How does the process of imprinting work in newly hatched birds, and what are its limits?
+What is the mechanism by which some animals can recognize their own reflection?
+How does the communication system of honeybees encode spatial information geometrically?
+
+# ── SECTION 6: Physiology and Systems (PROCESS) ────────────────────────────────
+How does the immune system of a mammal distinguish self from non-self at the cellular level?
+What is the mechanism by which deep-diving mammals avoid the bends that affect human divers?
+How does the process of hibernation change metabolic function in bears during winter?
+What is the mechanism by which chameleons change color — is it pigment or structure?
+How does the venom injection mechanism differ between snakes that use fangs versus spines?
+What is the process by which bioluminescence is produced in deep-sea organisms?
+How does the sonar mechanism of a bat differ from the echolocation system of a dolphin?
+What is the mechanism by which migratory salmon navigate back to their birth river?
+How does the process of molting work in arthropods, and what are its physiological risks?
+What is the mechanism underlying the electric sense of sharks and rays?
+How does the process of estivation in lungfish differ from hibernation in mammals?
+What is the mechanism by which poison dart frogs sequester toxins from their diet?
+How does the thermoregulation system of a bumblebee allow it to fly in cold temperatures?
+What is the process by which coral polyps build reef structures over geological time?
+How does the mechanism of countercurrent heat exchange allow arctic animals to retain body heat?
+What is the process by which cephalopods like octopuses change texture as well as color?
+How does the immune system of sharks differ from that of bony fish?
+What is the mechanism by which the bombardier beetle produces and fires its chemical defense?
+How does the process of wound healing differ between reptiles and mammals?
+What is the mechanism by which electric eels generate and control their electrical discharge?
+
+# ── SECTION 7: Ecology and Systems (CAUSAL/PROCESS) ────────────────────────────
+How does the wolf reintroduction in Yellowstone cause changes in river morphology through trophic cascades?
+What is the process by which a coral reef ecosystem recovers after bleaching?
+How does the seasonal migration of wildebeest drive the ecology of the Serengeti ecosystem?
+What is the mechanism by which mycorrhizal networks connect trees and facilitate resource sharing with animals?
+How does the process of succession occur after a wildfire destroys an animal habitat?
+What is the mechanism by which seed dispersal by animals drives forest regeneration?
+How does the presence of beavers cause physical restructuring of watershed ecosystems?
+What is the process by which whale falls create deep-sea ecosystems lasting decades?
+How does the mechanism of nitrogen fixation by certain bacteria affect animal food chains?
+What is the process by which mangrove forests buffer coastlines and support animal biodiversity?
+How does the seasonal flooding of the Amazon basin drive fish diversity in that ecosystem?
+What is the mechanism by which cleaner fish stations maintain the health of reef ecosystems?
+How does the process of island biogeography determine which animal species colonize remote islands?
+What is the mechanism by which invasive species disrupt native food webs?
+How does the process of eutrophication in water bodies cause collapse of fish populations?
+
+# ── SECTION 8: Genetics and Development (PROCESS) ─────────────────────────────
+How does the process of epigenetic modification affect the behavior of offspring in mammals?
+What is the mechanism by which gene expression differs between worker and queen bees despite identical DNA?
+How does the developmental process of regeneration work in salamanders and starfish?
+What is the mechanism by which sex determination occurs differently across animal groups?
+How does the process of embryonic development differ between viviparous and oviparous animals?
+What is the mechanism by which telomere shortening relates to aging in different animal species?
+How does the genetic mechanism of hybrid vigor operate in animal breeding?
+What is the process by which RNA interference regulates gene expression in animal cells?
+How does the mechanism of genomic imprinting cause parent-of-origin effects in mammalian development?
+What is the process by which stem cells differentiate into specialized tissues during animal development?
+
+# ── SECTION 9: Misconceptions and Edge Cases (CONTRASTIVE/FACTUAL) ─────────────
+People say that bats are blind — is this true, and what does the evidence actually show?
+Some claim that goldfish have a three-second memory — what does the research actually demonstrate?
+Many believe that ostriches bury their heads in sand when frightened — is this accurate?
+People say that dogs see only in black and white — how does this compare to what is actually known?
+Some claim that sharks must keep swimming or they will die — is this true for all sharks?
+Many believe that lemmings commit mass suicide by jumping off cliffs — what actually causes their population crashes?
+People say that touching a baby bird will cause its mother to reject it — is this actually true?
+Some claim that elephants are afraid of mice — what does behavioral evidence show?
+Many believe that a crocodile cannot open its mouth if held shut — is this physiologically accurate?
+People say that dolphins are the most intelligent animals after humans — how should intelligence be compared across species?
+Some claim that animals can predict earthquakes — what is the evidence and what are the proposed mechanisms?
+Many believe that pit bulls are inherently more dangerous than other dog breeds — what does the evidence show?
+People say that you can tell a turtle's age by counting rings on its shell — how accurate is this?
+Some claim that sharks don't get cancer — is this true and what does the evidence actually show?
+Many believe that a cockroach can survive a nuclear explosion — what are the actual limits of their radiation tolerance?
+
+# ── SECTION 10: Cross-Scale and Systemic Questions (CAUSAL/PROCESS) ────────────
+How does the loss of a single pollinator species cause effects that propagate through multiple trophic levels?
+What is the process by which a small change in ocean temperature causes cascading effects on global marine animal populations?
+How does the mechanism of antibiotic overuse in livestock cause resistance that affects human medicine?
+What is the process by which deforestation in one region causes rainfall changes that affect animal populations in distant regions?
+How does the introduction of light pollution cause changes that propagate from insect behavior to bird populations to plant communities?
+What is the mechanism by which the decline of large animal predators causes vegetation changes through trophic release?
+How does the process of ocean warming cause range shifts that restructure entire marine ecosystems?
+What is the mechanism by which the loss of large seed dispersers causes forest composition changes over decades?
+How does the process by which microbiome disruption in one animal species affects the health of its predators?
+What is the mechanism by which the loss of apex marine predators causes jellyfish population explosions?
+
+# ── SECTION 11: Geometric Stress Tests — Vocabulary Overlap ────────────────────
+# These prompts deliberately use vocabulary already confirmed in the library
+# (consciousness, mechanism, process, system, cellular, evolution, evidence)
+# to test whether arm assignments hold in a new domain context.
+What is the mechanism by which animal consciousness arises from neural activity?
+How does the process of cellular division during wound healing differ between reptiles and mammals?
+What is the evidence that social learning constitutes a genuine mechanism of cultural transmission in animals?
+How does the system of chemical signaling in insect colonies constitute a form of distributed intelligence?
+What is the process by which evolution produces convergent solutions to physical problems across unrelated lineages?
+How does the mechanism of pain processing in fish relate to the broader evidence for animal consciousness?
+What is the evidence that animal play behavior is a genuine mechanism for developing adult competencies?
+How does the process of genetic drift operate as a mechanism distinct from natural selection?
+What is the system by which pack hunting in wolves constitutes a form of distributed cognitive process?
+How does the evidence for theory of mind in great apes relate to the broader mechanism of social cognition?
+What is the process by which animal immune systems distinguish self from non-self at the cellular level?
+How does the mechanism of echolocation constitute evidence for convergent evolution of sensory systems?
+What is the system by which coral reef ecosystems maintain resilience through biological diversity?
+How does the process of embryonic development in marsupials differ from the mechanism used by placental mammals?
+What is the evidence that tool use in crows constitutes genuine problem-solving rather than conditioned behavior?
+
+# ── SECTION 12: Quantitative and Measurement Questions ─────────────────────────
+How do scientists measure the intelligence of different animal species in a way that is comparable across groups?
+What is the method by which ecologists measure biodiversity, and what are the limitations of each approach?
+How do researchers determine the carrying capacity of a habitat for a specific animal species?
+What is the method by which scientists estimate the age of wild animal populations without capturing individuals?
+How do biologists measure the degree of genetic relatedness between animal species?
+What is the method by which ecologists trace energy flow through a food web?
+How do researchers measure the stress levels of wild animals without disturbing their behavior?
+What is the method by which scientists determine whether an animal is experiencing pain?
+How do ecologists measure the impact of an invasive species on a native ecosystem?
+What is the method by which researchers determine the geographic range of an animal species?
+
+# ── SECTION 13: Deep Time and Paleontology ──────────────────────────────────────
+How does the fossil record provide evidence for the evolutionary transition from dinosaurs to birds?
+What is the process by which soft-bodied animals become fossilized despite having no hard parts?
+How does the mechanism of mass extinction differ from background extinction in its effects on animal diversity?
+What is the evidence that the Permian extinction was more devastating than the Cretaceous event?
+How does the process of evolutionary radiation occur after a mass extinction creates ecological vacancies?
+What does the Cambrian explosion tell us about the mechanism by which animal body plans diversified?
+How does the evidence from ancient DNA change our understanding of the relationships between extinct and living animals?
+What is the mechanism by which island species evolve gigantism or dwarfism relative to their mainland relatives?
+How does the process of convergent evolution in extinct and living animals provide evidence for physical constraints on body plans?
+What is the evidence that some dinosaurs were warm-blooded, and what does this imply about their behavior?
+
+# ── SECTION 14: Conservation and Human Impact ───────────────────────────────────
+How does habitat fragmentation cause genetic isolation that reduces the long-term viability of animal populations?
+What is the process by which captive breeding programs attempt to maintain genetic diversity in endangered species?
+How does the mechanism of trophy hunting affect the genetic structure of target animal populations?
+What is the evidence that marine protected areas effectively increase fish population recovery?
+How does the process of rewilding attempt to restore ecological function through animal reintroduction?
+What is the mechanism by which climate change causes phenological mismatch between animals and their food sources?
+How does the evidence for animal sentience affect the ethical framework for conservation decision-making?
+What is the process by which ex situ conservation in zoos contributes to in situ wild population recovery?
+How does the mechanism of disease spillover from domestic animals threaten wild animal populations?
+What is the evidence that wildlife corridors successfully maintain genetic connectivity between fragmented populations?
+
+# ── SECTION 15: Extreme Biology ──────────────────────────────────────────────────
+How does the mechanism of cryptobiosis allow tardigrades to survive conditions lethal to all other animals?
+What is the process by which the Greenland shark achieves a lifespan measured in centuries?
+How does the mechanism of pressure adaptation allow deep-sea fish to survive at depths that would crush most animals?
+What is the process by which certain frogs survive being completely frozen solid during winter?
+How does the mechanism of desiccation tolerance allow the wood frog to survive losing most of its body water?
+What is the evidence that some animals can navigate using quantum mechanical effects in their sensory systems?
+How does the process by which naked mole rats achieve extreme longevity relative to other rodents of similar size?
+What is the mechanism by which the mantis shrimp achieves strike velocities that create cavitation bubbles?
+How does the process by which certain cephalopods solve complex spatial problems despite short lifespans?
+What is the mechanism by which the immortal jellyfish reverts to its juvenile form after reaching adulthood?
+
+# ── SECTION 16: Additional Stress Tests ───────────────────────────────────────
+How does the process of lactation differ mechanistically between monotremes and placental mammals?
+What is the evidence that fish form social bonds, and what mechanisms underlie this behavior?
+How does the system of distributed cognition in a bee swarm make collective decisions about nest sites?
+What is the mechanism by which some animals reset their circadian clocks when crossing time zones during migration?
+How does the process of wound healing in salamanders involve genuine tissue regeneration rather than scar formation?
+What is the evidence that ravens plan for future events, and what does this imply about their cognitive mechanisms?
+How does the mechanism of social immunity work in insect colonies to prevent disease spread?
+What is the process by which animals develop regional dialects in their vocalizations over generations?
+How does the system of alarm calls in vervet monkeys encode specific predator information?
+What is the mechanism by which some snake venoms have evolved to target the specific blood chemistry of their prey?
+How does the process of adaptive immunity develop differently in cartilaginous fish compared to bony fish?
+What is the evidence that octopuses experience something analogous to sleep, and what does this suggest about neural rest mechanisms?
+How does the mechanism of sexual conflict drive the evolution of elaborate mating structures in insects?
+What is the process by which animals learn to associate warning coloration with toxicity through trial and error?
+How does the system of chemical communication in mammals differ fundamentally from that in insects?
+What is the mechanism by which some deep-sea fish produce light through bioluminescence to attract prey?
+How does the process of brain lateralization differ across vertebrate groups, and what functions does it serve?
+What is the evidence that some birds are capable of numerical reasoning, and what mechanism underlies this?
+How does the mechanism of thermal regulation in large dinosaurs compare to what we observe in modern large reptiles?
+What is the process by which colonial organisms like siphonophores blur the boundary between individual and colony?
