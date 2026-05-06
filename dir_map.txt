@@ -1,0 +1,48 @@
+core
+	axis_state.py
+	field_state.py
+	geometric_ops.py
+	invariants.py
+	ouroboros_engine.py
+	safeguards.py
+language
+	sentence_builder.py
+	relational_tension.py
+	processor.py
+	output_translator.py
+	morphology.py
+	malleable_library.py
+	invariant_engine.py
+	intention_scanner.py
+	geometric_output.py
+	conversation_field.py
+observer
+	observer.py
+tests
+	geometric_clustering_test.py
+	geometric_stability_test.py
+utils
+	bipolar_lattice.py
+	diagonal_structure.py
+	fold_line_resonance.py
+	mobius_reader.py
+	radial_displacer.py
+	symbol_grouping.py
+wave
+	manifold_generator.py
+	propagation.py
+	symbolic_compiler.py
+	symbolic_wave.py
+	vibration.py
+
+main.py
+readme.md
+requirements.txt
+session_epoch.txt
+
+JSONS:
+exhaust_memory.json
+field_state.json
+malleable_bootstrap.json
+malleable_library.json
+ouro_truth_library.json
